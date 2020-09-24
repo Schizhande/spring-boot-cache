@@ -31,7 +31,7 @@ public class SwaggerConfig {
                 "Spring Boot redis",
                 "1.0",
                 "learning",
-                new Contact("thirstybrain", "",
+                new Contact("Simba", "",
                         ""),
                 "",
                 ""
